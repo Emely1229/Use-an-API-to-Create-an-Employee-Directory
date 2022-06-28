@@ -1,5 +1,5 @@
 let employees= [];
-const urlAPI = `https://randomuser.me/api/?restulst=12&nat=US&inc=name,picture,email,location,phone,dob`
+const urlAPI = `https://randomuser.me/api/?results=12&nat=US&inc=name,picture,email,location,phone,dob`
 const gridContainer = document.querySelector(".grid-container");
 const overlay = document.querySelector(".overlay");
 const modalContainer = document.querySelector(".modal-content");
